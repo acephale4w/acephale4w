@@ -8,3 +8,4 @@
 - In part, that's also why I try really hard.
 - Fun trivia about me: I almost ended up playing professional basketball. Loved the game, but hated the idea of being a modern day gladiator e.g getting paid for my physical prowess, which is why I quit and never looked back. I have one published short story on Amazon Kindle.
 
+![image](https://user-images.githubusercontent.com/89745789/161141020-3ac7fb11-90af-4296-b078-5d60fa18b4ef.png)
