@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @acephale4w...
+- 👋 Hi, I’m @acephale4w... this is my TryHackMe profile - https://tryhackme.com/p/nk4w
 - 👀 I’m interested in... OSINT, Python, Threat Hunting, Pentesting, and Red Teaming  - not necessarily in that order!
 - 🌱 I’m currently learning... OSINT, Scripting, Pentesting basics, and DFIR.
 - I participate in OSINT CTF's regularly... I have 3 of them under my belt, and, hopefully, many more to come. I've done two CTF's with Trace Labs, and one with the ATII (Darkwebathon) - where I've used their proprietary tool: Project Hades.
