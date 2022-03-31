@@ -6,5 +6,5 @@
 - My favorite movie of all time is Clockwork Orange
 - I want to achieve both depth, and width, when it comes to knowledge - that is my (un)fortunate nature - which I've eventually embraced and stopped trying to escape 
 - In part, that's also why I try really hard.
-Fun trivia about me: I almost ended up playing professional basketball. Loved the game, but hated the idea of being a modern day gladiator, which is why I quit and never looked back. I have one published short story on Amazon Kindle.
+- Fun trivia about me: I almost ended up playing professional basketball. Loved the game, but hated the idea of being a modern day gladiator, which is why I quit and never looked back. I have one published short story on Amazon Kindle.
 
