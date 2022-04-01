@@ -14,3 +14,13 @@ Below is my TryHackMe skills matrix
 
 
    ![image](https://user-images.githubusercontent.com/89745789/161141020-3ac7fb11-90af-4296-b078-5d60fa18b4ef.png)
+
+
+
+Some cool and, maybe, relevant links:
+
+https://www.nickbostrom.com/fable/dragon.html
+
+https://start.me/p/ZME8nR/osint
+
+https://twitter.com/projectowlosint?lang=en
