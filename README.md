@@ -9,7 +9,8 @@
 Below is my TryHackMe skills matrix
 
 
-  ![skillsmatrix](https://user-images.githubusercontent.com/89745789/163617609-e8c9dbfd-799f-4b12-b14c-1fcfebcf4c6b.png)
+  ![2022-04-21 20_48_52-TryHackMe _ Dashboard — Mozilla Firefox](https://user-images.githubusercontent.com/89745789/164532353-09f68b05-7068-4829-a46c-59ab9a542fea.png)
+
 
 
 
