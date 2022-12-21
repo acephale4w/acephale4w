@@ -5,6 +5,7 @@
 - I want to achieve both depth, and width, when it comes to knowledge - that is my (un)fortunate nature - which I've eventually embraced and stopped trying to escape.
 - In part, that's also why I try really hard.
 - On average, I spend at least 12 hours a day on my computer... sometimes more... much more.
+- Also, feel free to check out my ![Infosec Posts](https://vicarius.io/vsociety/users/acephale?type=blog-posts)
 
 Below is my TryHackMe skills matrix
 
