@@ -3,18 +3,7 @@
 - 🌱 I’m currently learning... OSINT, Scripting, Pentesting basics, and DFIR.
 - I participate in OSINT CTF's regularly... I have 3 of them under my belt, and, hopefully, many more to come! I've done two CTF's with Trace Labs, and one with the ATII (Darkwebathon) - where I've used their proprietary tool: Project Hades.
 - I want to achieve both depth, and width, when it comes to knowledge - that is my (un)fortunate nature - which I've eventually embraced and stopped trying to escape.
-- In part, that's also why I try really hard.
-- On average, I spend at least 12 hours a day on my computer... sometimes more... much more.
 - Also, feel free to check out my Infosec posts at https://vicarius.io/vsociety/users/acephale?type=blog-posts
-
-Below is my TryHackMe skills matrix
-
-
-  ![2022-04-21 20_48_52-TryHackMe _ Dashboard — Mozilla Firefox](https://user-images.githubusercontent.com/89745789/164532353-09f68b05-7068-4829-a46c-59ab9a542fea.png)
-
-
-
-
 
 Some cool and, maybe, relevant links, and other stuff:
 
